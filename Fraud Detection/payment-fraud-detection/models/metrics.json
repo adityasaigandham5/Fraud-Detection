@@ -1,0 +1,11 @@
+{
+  "auc_roc": 0.5937,
+  "auc_pr": 0.0039,
+  "optimal_threshold": 0.5,
+  "fraud_caught": 2,
+  "total_fraud": 10,
+  "false_positives": 1136,
+  "false_positive_rate": 0.1917,
+  "training_samples": 27656,
+  "test_samples": 5936
+}
